@@ -16,4 +16,4 @@ patches:
       metadata:
         name: nginx-deployment
       spec:
-        replicas: 2
+        replicas: 5
